@@ -1,0 +1,117 @@
+strong {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    position: absolute;
+    left: 55px;
+}
+
+#firsthr {
+    margin-top: 25px;
+    display:block;
+    border:0px;
+    height:10px;
+    background-image: url(../img/hr.png);	
+}
+#titlep {
+    position: absolute;
+    left: 55px;
+    top: 20px;
+}
+nav {
+    position: absolute;
+    right: 16px;
+    top: 32px;
+}
+
+.par1{
+    color: lightgray;
+    position: absolute;
+    top: 137px;
+   
+}
+#printsec {
+    color: lightgray;
+    position: absolute;
+    right: 10px;
+    top: 137px;
+}
+
+#mainimage {
+    margin-top: 40px;
+}
+#choco {
+    width: 100%;
+}
+.aparagraph{
+    margin-top: 25px;
+}
+#listsec img{
+    width: 100%;
+}
+#listsec {
+    position: relative;
+}
+#form1{
+    position: absolute;
+    top: 72px;
+    left: 150px;
+}
+#form1 p {
+    margin-bottom: 30px;
+}
+
+#form2{
+    position: absolute;
+    top: 72px;
+    right: 150px;
+}
+#form2 p {
+    margin-bottom: 30px;
+}
+#secondhr {
+    margin-top: 25px;
+    display:block;
+    border:0px;
+    height:10px;
+    background-image: url(../img/hr.png);	
+}
+#part2{
+    margin-top: 25px;
+    position: relative;
+}
+h3{
+    position: absolute;
+    left: 85px;
+    top: -8px;
+}
+#part2 p{
+    position: absolute;
+    left: 85px;
+    top: 18px;
+}
+#part2 a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: coral;
+    color: white;
+    position: absolute;
+    right: 5px;
+    top: 10px;
+}
+footer{
+    margin-top: 25px;
+    position: relative;
+}
+footer img{
+    display: inline-block;
+    position: relative;
+    top: 26px;
+    left: 730px;
+}
+footer p {
+    text-align: center;
+    color: lightgray;
+}
+
